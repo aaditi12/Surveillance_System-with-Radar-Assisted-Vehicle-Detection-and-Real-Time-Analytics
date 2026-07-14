@@ -1,6 +1,10 @@
 # Surveillance_System-with-Radar-Assisted-Vehicle-Detection-and-Real-Time-Analytics
 Here's the full run sequence, assuming your workspace is already set up the way your other assignments have been (`~/assignment_ws` or similar on `pi-node1`):
 
+
+https://github.com/user-attachments/assets/47543a86-b38f-4e6e-b6ca-2509cc11d44f
+
+
 ## 1. Build & source
 
 ```bash
